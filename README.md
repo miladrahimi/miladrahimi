@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-[My Golang Repositories](https://github.com/golobby)
+[My Go Repositories](https://github.com/golobby)
 
 [My PHP Repositories](https://github.com/miladrahimi?tab=repositories)
 
