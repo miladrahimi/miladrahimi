@@ -1,6 +1,7 @@
 # Milad Rahimi
 
-Welcome to my GitHub profile!
+[![Website](https://img.shields.io/website?label=miladrahimi.com&style=for-the-badge&url=https%3A%2F%2Fmiladrahimi.com)](https://miladrahimi.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/realmiladrahimi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmiladrahimi&screen_name=realmiladrahimi)
 
 [My Go Repositories](https://github.com/golobby)
 
