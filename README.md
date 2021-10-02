@@ -12,5 +12,3 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='22'>](https://www.facebook.com/realmiladrahimi)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladrahimi&show_icons=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miladrahimi)](https://github.com/miladrahimi)
