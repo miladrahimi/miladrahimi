@@ -10,3 +10,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='22'>](https://twitter.com/realmiladrahimi)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='22'>](https://stackoverflow.com/users/3719087)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='22'>](https://www.facebook.com/realmiladrahimi)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladrahimi&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miladrahimi)](https://github.com/miladrahimi)
