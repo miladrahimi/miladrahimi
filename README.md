@@ -1,4 +1,5 @@
 # Milad Rahimi
+![](https://komarev.com/ghpvc/?username=miladrahimi&style=flat-square)
 [![Website](https://img.shields.io/website?label=MiladRahimi.com&style=flat-square&url=https%3A%2F%2Fmiladrahimi.com)](https://miladrahimi.com)
 [![Twitter](https://img.shields.io/twitter/follow/realmiladrahimi?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmiladrahimi&screen_name=realmiladrahimi)
 [![Go](https://img.shields.io/badge/Go-Repositories-ccc?style=flat-square&logo=go&logoColor=00ADD8)](https://github.com/golobby)
